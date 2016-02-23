@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./instrumentapubli00bann/instrumentapubli00bann_0209.png"; bbox 0 0 1881 2723; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 645 771 1163 832">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 645 771 1163 832">
+     <span class='ocr_line' id='line_1_1' title="bbox 645 771 1163 832; baseline 0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 645 771 1163 832; x_wconf 89' lang='lat' dir='ltr'><strong>APPENDIX.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 670 1040 1123 1088">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 670 1040 1123 1088">
+     <span class='ocr_line' id='line_1_2' title="bbox 670 1040 1123 1088; baseline 0.007 -3"><span class='ocrx_word' id='word_1_2' title='bbox 670 1040 1123 1088; x_wconf 88' lang='lat' dir='ltr'><strong>ITINERAIRE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 344 1195 1457 1256">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 344 1195 1457 1256">
+     <span class='ocr_line' id='line_1_3' title="bbox 344 1195 1457 1256; baseline 0.004 -14"><span class='ocrx_word' id='word_1_3' title='bbox 344 1195 446 1242; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 485 1195 633 1243; x_wconf 85' lang='lat' dir='ltr'><strong>ROY</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 671 1196 991 1244; x_wconf 88' lang='lat' dir='ltr'><strong>EDWARD</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1030 1198 1137 1245; x_wconf 93' lang='lat' dir='ltr'><strong>EN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1176 1197 1457 1256; x_wconf 89' lang='lat' dir='ltr'>ESCOCE,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 638 1385 1148 1435">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 638 1385 1148 1435">
+     <span class='ocr_line' id='line_1_4' title="bbox 638 1385 1148 1435; baseline 0 -3"><span class='ocrx_word' id='word_1_8' title='bbox 638 1387 701 1432; x_wconf 92' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 719 1386 784 1433; x_wconf 90' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 813 1385 1148 1435; x_wconf 88' lang='lat' dir='ltr'><strong>MCCXCVI.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

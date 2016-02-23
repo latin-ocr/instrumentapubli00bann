@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./instrumentapubli00bann/instrumentapubli00bann_0013.png"; bbox 0 0 1881 2723; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 778 708 1104 747">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 778 708 1104 747">
+     <span class='ocr_line' id='line_1_1' title="bbox 778 708 1104 747; baseline 0.015 -5"><span class='ocrx_word' id='word_1_1' title='bbox 778 708 1104 747; x_wconf 86' lang='lat' dir='ltr'>PRESENTED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 424 854 1455 942">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 424 854 1455 942">
+     <span class='ocr_line' id='line_1_2' title="bbox 424 854 1455 942; baseline 0.016 -16"><span class='ocrx_word' id='word_1_2' title='bbox 424 882 515 927; x_wconf 83' lang='lat' dir='ltr'><strong>To</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 556 854 703 931; x_wconf 61' lang='lat' dir='ltr'><strong>Tffll:</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 742 885 1228 940; x_wconf 81' lang='lat' dir='ltr'>BANNATYNE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1268 894 1455 942; x_wconf 85' lang='lat' dir='ltr'>CLUB</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 456 1077 1402 1237">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 456 1077 1402 1237">
+     <span class='ocr_line' id='line_1_3' title="bbox 456 1077 1402 1126; baseline 0.016 -15"><span class='ocrx_word' id='word_1_6' title='bbox 456 1077 526 1111; x_wconf 89' lang='lat' dir='ltr'><strong>BY</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 553 1078 666 1114; x_wconf 89' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 694 1080 758 1115; x_wconf 77' lang='grc' dir='ltr'><strong>ΒΤ.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 790 1082 916 1117; x_wconf 85' lang='grc' dir='ltr'>ΗΟΝ.</span> <span class='ocrx_word' id='word_1_10' title='bbox 945 1084 1206 1122; x_wconf 79' lang='lat' dir='ltr'>WILLIAM</span> <span class='ocrx_word' id='word_1_11' title='bbox 1234 1090 1402 1126; x_wconf 83' lang='lat' dir='ltr'><strong>ADAM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 877 1202 999 1237; baseline 0.008 -1"><span class='ocrx_word' id='word_1_12' title='bbox 877 1202 999 1237; x_wconf 94' lang='lat' dir='ltr'><strong>AND</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 402 1313 1474 1366">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 402 1313 1474 1366">
+     <span class='ocr_line' id='line_1_5' title="bbox 402 1313 1474 1366; baseline 0.016 -19"><span class='ocrx_word' id='word_1_13' title='bbox 402 1313 514 1348; x_wconf 88' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 541 1314 606 1350; x_wconf 68' lang='lat' dir='ltr'><strong>RT.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 636 1316 762 1353; x_wconf 91' lang='lat' dir='ltr'>HON.</span> <span class='ocrx_word' id='word_1_16' title='bbox 792 1318 1133 1359; x_wconf 21' lang='lat' dir='ltr'><strong>SIRVSAMUEL</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1162 1324 1474 1366; x_wconf 83' lang='lat' dir='ltr'><strong>SHEPHERD.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
